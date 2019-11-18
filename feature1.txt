@@ -1,2 +1,2 @@
--stock
--promotion
+-stock v3
+-promotion v3
